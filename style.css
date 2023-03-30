@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Romanesco&family=Rouge+Script&display=swap');
+
+h1 {
+    background-color: rgb(0,  34, 68);
+    color: #A5ACAF;
+    border: 2px solid;
+    border-color: #69BE28;
+    border-radius: 10px;
+}
+#style h1 {
+    padding: 3rem;
+    text-align: center;
+    text-decoration: underline double;
+}
+body {
+    background-color: antiquewhite
+}
+h2 {
+    color:rgb(0,  34, 68);
+    text-align: center;
+    text-decoration: underline;
+    
+}
+h3{
+    color:#002244;
+    text-align: center;
+    text-decoration: underline;
+}
+table, th, td {
+    border: 2px solid;
+    text-align: center;
+    border-radius: 5px;
+    margin:auto;
+    border-color: #69BE28;
+}
+th{
+    background-color: rgb(0,  34, 68);
+    color:#A5ACAF;
+    border-color: #69BE28;
+}
+td {
+    padding:5px;
+}
